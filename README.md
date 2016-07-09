@@ -1,6 +1,6 @@
 # ReactJS component to embed WyriMaps.net maps
 
-[![Linux Build Status](https://travis-ci.org/WyriHaximus/reactjs-embed-wyrimaps-map.png)](https://travis-ci.org/WyriHaximus/reactjs-embed-wyrimaps-map)
+[![Linux Build Status](https://travis-ci.org/WyriMaps/reactjs-embed-wyrimaps-map.png)](https://travis-ci.org/WyriMaps/reactjs-embed-wyrimaps-map)
 
 [![NPM](https://nodei.co/npm/react-embed-wyrimaps-map.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/react-embed-wyrimaps-map)
 
