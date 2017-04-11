@@ -8,7 +8,7 @@
     "test": "mocha --compilers js:babel-core/register ./tests.js"
   },
   "dependencies": {
-    "react": "^15.0.1",
+    "react": "^15.5.4",
     "react-dom": "^15.0.1"
   },
   "devDependencies": {
